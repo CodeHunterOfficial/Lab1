@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Угадай число!</string>
+    <string name="ahead">ahead</string>
+    <string name="behind">behind</string>
+    <string name="hit">hit</string>
+    <string name="play_more">Играйте больше</string>
+    <string name="input_value">Ввести значение</string>
+    <string name="try_to_guess">Хотите продолжать?</string>
+</resources>
